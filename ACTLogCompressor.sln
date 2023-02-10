@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogCompressor", "LogCompressor\LogCompressor.csproj", "{2FAF4AAB-48AB-4F8D-ACDD-50CFE2D1C354}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lotlab.PluginCommon", "PluginCommon\PluginCommon\Lotlab.PluginCommon.csproj", "{A7A7A2A9-B3C3-4803-98EC-1A0EEA527390}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lotlab.PluginCommon.FFXIV", "PluginCommon\PluginCommon.FFXIV\Lotlab.PluginCommon.FFXIV.csproj", "{BA2B378E-FD6F-4E00-8209-25FA5C0A017B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lotlab.PluginCommon.WPF", "PluginCommon\PluginCommon.WPF\Lotlab.PluginCommon.WPF.csproj", "{C225E131-A338-48B0-B255-40515D08DC7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FAF4AAB-48AB-4F8D-ACDD-50CFE2D1C354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FAF4AAB-48AB-4F8D-ACDD-50CFE2D1C354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FAF4AAB-48AB-4F8D-ACDD-50CFE2D1C354}.Debug|x64.ActiveCfg = Debug|x64
+		{2FAF4AAB-48AB-4F8D-ACDD-50CFE2D1C354}.Debug|x64.Build.0 = Debug|x64
+		{2FAF4AAB-48AB-4F8D-ACDD-50CFE2D1C354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FAF4AAB-48AB-4F8D-ACDD-50CFE2D1C354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FAF4AAB-48AB-4F8D-ACDD-50CFE2D1C354}.Release|x64.ActiveCfg = Release|x64
+		{2FAF4AAB-48AB-4F8D-ACDD-50CFE2D1C354}.Release|x64.Build.0 = Release|x64
+		{A7A7A2A9-B3C3-4803-98EC-1A0EEA527390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A7A2A9-B3C3-4803-98EC-1A0EEA527390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A7A2A9-B3C3-4803-98EC-1A0EEA527390}.Debug|x64.ActiveCfg = Debug|x64
+		{A7A7A2A9-B3C3-4803-98EC-1A0EEA527390}.Debug|x64.Build.0 = Debug|x64
+		{A7A7A2A9-B3C3-4803-98EC-1A0EEA527390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A7A2A9-B3C3-4803-98EC-1A0EEA527390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7A7A2A9-B3C3-4803-98EC-1A0EEA527390}.Release|x64.ActiveCfg = Release|x64
+		{A7A7A2A9-B3C3-4803-98EC-1A0EEA527390}.Release|x64.Build.0 = Release|x64
+		{BA2B378E-FD6F-4E00-8209-25FA5C0A017B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2B378E-FD6F-4E00-8209-25FA5C0A017B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2B378E-FD6F-4E00-8209-25FA5C0A017B}.Debug|x64.ActiveCfg = Debug|x64
+		{BA2B378E-FD6F-4E00-8209-25FA5C0A017B}.Debug|x64.Build.0 = Debug|x64
+		{BA2B378E-FD6F-4E00-8209-25FA5C0A017B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2B378E-FD6F-4E00-8209-25FA5C0A017B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA2B378E-FD6F-4E00-8209-25FA5C0A017B}.Release|x64.ActiveCfg = Release|x64
+		{BA2B378E-FD6F-4E00-8209-25FA5C0A017B}.Release|x64.Build.0 = Release|x64
+		{C225E131-A338-48B0-B255-40515D08DC7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C225E131-A338-48B0-B255-40515D08DC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C225E131-A338-48B0-B255-40515D08DC7C}.Debug|x64.ActiveCfg = Debug|x64
+		{C225E131-A338-48B0-B255-40515D08DC7C}.Debug|x64.Build.0 = Debug|x64
+		{C225E131-A338-48B0-B255-40515D08DC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C225E131-A338-48B0-B255-40515D08DC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C225E131-A338-48B0-B255-40515D08DC7C}.Release|x64.ActiveCfg = Release|x64
+		{C225E131-A338-48B0-B255-40515D08DC7C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ED78900-F830-437C-828A-2EFAF569B00F}
+	EndGlobalSection
+EndGlobal
